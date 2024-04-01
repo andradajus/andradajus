@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @andradajus<br>👀 I’m interested in Freelance, Part-Time or Full-Time Work<br>🌱 I’m currently learning PHP and NodeJS<br>📫 How to reach me via my Linkedin<br>
+👋 Hi, I’m @andradajus<br>👀 I’m interested in Freelance, Part-Time or Full-Time Work<br>🌱 I’m currently learning PHP and NodeJS<br>📫 Reach me via my Linkedin<br>
 
 
 ## 🌐 Socials:
